@@ -1,0 +1,16 @@
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+venv/
+env/
+myenv/
+
+# Background image
+
+image.jpg
+
+# VS Code settings
+
+.vscode/
